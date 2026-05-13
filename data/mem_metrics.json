@@ -1,0 +1,1 @@
+{"status":"success","data":{"resultType":"matrix","result":[{"metric":{"__name__":"node_memory_MemAvailable_bytes","instance":"node-exporter:9100","job":"node-exporter"},"values":[[1778607579,"5647515648"],[1778607639,"5630820352"],[1778607699,"5624528896"],[1778607759,"5636677632"],[1778607819,"5626179584"]]}]}}
